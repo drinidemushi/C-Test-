@@ -1,0 +1,64 @@
+how much is 5*8 ?
+40 or 45
+40
+how much is 8+12 ?
+20 or 22
+20
+what formual we use for force ?
+F=m*a or F=m*v
+F=m*a
+which is the unit of force ?
+N or J
+N
+how much is 4-1*2 ?
+2 or 6 
+2
+what formula we use for potential energy ?
+Ep=mgh or Ep=m/2gh
+Ep=mgh
+what do we use to declare an integer in C++ ?
+int or char 
+int 
+how much is 19-5*3 ?
+4 or 6
+4
+which is the unite of potential energy ?
+N or J 
+J
+which is the unite of I ?
+A or v
+A 
+which is the unite of U ?
+J or V 
+V
+how much is 7+9-8*1 ?
+6 or 8
+8
+which is the unite of electric field  ?
+N/C or N/ m 
+N/C 
+which is the formula of electric field ?
+E=F/q or E=F/m 
+E=F/q
+which is the unit od magenitc fulx ?
+Wb or wb/s
+Wb 
+how much is 8/4-3+2*2 ?
+3 or 6 
+6
+which is the unit of charge ?
+C or v 
+C 
+how much is 5*2-5-2*2 ?
+2 or 1
+1
+how much is x is 2x-2=0 ?
+1 or -1 
+1
+what formula we use to finde velocity ?
+v=d/t or v=d*t 
+v=d/t 
+which is the unit of vlocity ?
+m/s or m/h 
+m/s
+
